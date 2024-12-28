@@ -37,4 +37,4 @@ https://www.zcyphygeodesy.com/en/h-nd-130.html
 ## [Algorithmic formula] ETideLoad4.5 User Reference https://www.zcyphygeodesy.com/en/
     8.2.2 The normalized spherical harmonic series expansion for surface load deformation field
     8.2.3 The normalized associated Legendre functions and thier derivatives
-DOS executable test file, geophysical models and all input and output data.
+The zip compression package includes the test project in visual studio 2017 - intel fortran integrated environment, DOS executable test file, geophysical models and all input and output data.
