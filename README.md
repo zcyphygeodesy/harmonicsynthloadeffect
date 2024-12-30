@@ -3,6 +3,7 @@ https://www.zcyphygeodesy.com/en/h-nd-130.html
 ## [Algorithm purpose]
     From the surface atmosphere, land water or sea level variation load spherical harmonic coefficient model (m), compute the non-tidal load effects on the geoid or height anomaly (mm), ground gravity (μGal), gravity disturbance (μGal), ground tilt (SW, to the south and to the west, mas), vertical deflection (SW, to the south and to the west, mas), horizontal displacement (EN, to the east and to the north, mm), ground radial displacement (mm), ground normal or orthometric height (mm), radial gravity gradient (10μE) or horizontal gravity gradient (NW, to the north and to the west, 10μE) using spherical harmonic synthesis.
     The algorithm can computate unified analytically various load effects on all-element geodetic variations in whole Earth space. The calculated surface load effect time time seriescan be employed to calibrate various parameters of the satellite's key geo-detic payloads, and effectively improve and check the quality, reliability and accuracy of the time-varying monitoring for satellite gravity field.
+![](https://24192633.s21i.faiusr.com/2/ABUIABACGAAgs7bQuQYort-bsQUwlg44ugk.jpg)
 ## [Computation Output]
     tdn(14): the non-tidal load effects on all-element geodetic variations.
     tdn(1:14) stores the non-tidal load effects on 10 kinds of geodetic variations, which are the load effects on height anomaly tdn(1) (mm), ground gravity #tdn(2) (μGal), gravity disturbance tdn(3) (μGal), ground tilt #tdn(4:5) (SW, to the south and to the west, mas), vertical deflection tdn(6:7) (SW, to the south and to the west, mas), horizontal displacement #tdn(8:9) (EN, to the east and to the north, mm), ground radial displacement #tdn(10) (mm), ground normal or orthometric height #tdn(11) (mm), radial gravity gradient tdn(12 )(10μE) or horizontal gravity gradient tdn(13:14) (NW, to the north and to the west, 10μE).
@@ -38,3 +39,5 @@ https://www.zcyphygeodesy.com/en/h-nd-130.html
     8.2.2 The normalized spherical harmonic series expansion for surface load deformation field
     8.2.3 The normalized associated Legendre functions and thier derivatives
 The zip compression package includes the test project in visual studio 2017 - intel fortran integrated environment, DOS executable test file, geophysical models and all input and output data.
+![](https://24192633.s21i.faiusr.com/2/ABUIABACGAAgtLbQuQYo7KXfvAIwlg44ugk.jpg)
+![](https://24192633.s21i.faiusr.com/2/ABUIABACGAAgtLbQuQYo0tbSrQcwlg44ugk.jpg)
